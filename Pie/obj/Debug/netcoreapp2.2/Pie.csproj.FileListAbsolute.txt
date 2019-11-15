@@ -1,0 +1,13 @@
+/Users/nirozaryal/Projects/Pie/Pie/bin/Debug/netcoreapp2.2/Pie.deps.json
+/Users/nirozaryal/Projects/Pie/Pie/bin/Debug/netcoreapp2.2/Pie.runtimeconfig.json
+/Users/nirozaryal/Projects/Pie/Pie/bin/Debug/netcoreapp2.2/Pie.runtimeconfig.dev.json
+/Users/nirozaryal/Projects/Pie/Pie/bin/Debug/netcoreapp2.2/Pie.dll
+/Users/nirozaryal/Projects/Pie/Pie/bin/Debug/netcoreapp2.2/Pie.pdb
+/Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.csproj.CoreCompileInputs.cache
+/Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.RazorAssemblyInfo.cache
+/Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.RazorAssemblyInfo.cs
+/Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.AssemblyInfoInputs.cache
+/Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.AssemblyInfo.cs
+/Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.RazorTargetAssemblyInfo.cache
+/Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.dll
+/Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.pdb
