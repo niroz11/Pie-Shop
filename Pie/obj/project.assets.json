@@ -12074,11 +12074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nirozaryal/Projects/Pie/Pie/Pie.csproj",
+      "projectUniqueName": "/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/Pie.csproj",
       "projectName": "Pie",
-      "projectPath": "/Users/nirozaryal/Projects/Pie/Pie/Pie.csproj",
+      "projectPath": "/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/Pie.csproj",
       "packagesPath": "/Users/nirozaryal/.nuget/packages/",
-      "outputPath": "/Users/nirozaryal/Projects/Pie/Pie/obj/",
+      "outputPath": "/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

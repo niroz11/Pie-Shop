@@ -11,3 +11,17 @@
 /Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.RazorTargetAssemblyInfo.cache
 /Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.dll
 /Users/nirozaryal/Projects/Pie/Pie/obj/Debug/netcoreapp2.2/Pie.pdb
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/bin/Debug/netcoreapp2.2/Pie.deps.json
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/bin/Debug/netcoreapp2.2/Pie.runtimeconfig.json
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/bin/Debug/netcoreapp2.2/Pie.runtimeconfig.dev.json
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/bin/Debug/netcoreapp2.2/Pie.dll
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/bin/Debug/netcoreapp2.2/Pie.pdb
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.csprojAssemblyReference.cache
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.csproj.CoreCompileInputs.cache
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.RazorAssemblyInfo.cache
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.RazorAssemblyInfo.cs
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.AssemblyInfoInputs.cache
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.AssemblyInfo.cs
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.RazorTargetAssemblyInfo.cache
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.dll
+/Users/nirozaryal/Desktop/PieShop/Pie-Shop/Pie/obj/Debug/netcoreapp2.2/Pie.pdb
