@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{D7496AE0-8929-4AF8-AEDF-0D47A71750D1}|Default">
   <MonoDevelop.Ide.ItemProperties.Pie PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pie/Models/MockPieRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pie/Controllers/HomeController.cs">
     <Files>
       <File FileName="Pie/Program.cs" Line="17" Column="1" />
       <File FileName="Pie/Startup.cs" Line="31" Column="1" />
@@ -8,17 +8,17 @@
       <File FileName="Pie/appsettings.json" Line="1" Column="1" />
       <File FileName="Pie/Models/Pie.cs" Line="13" Column="49" />
       <File FileName="Pie/Models/IPieRepository.cs" Line="9" Column="1" />
-      <File FileName="Pie/Models/MockPieRepository.cs" Line="6" Column="2" />
+      <File FileName="Pie/Models/MockPieRepository.cs" Line="12" Column="10" />
+      <File FileName="Pie/Controllers/HomeController.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Pie" expanded="True">
             <Node name="Pie" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="MockPieRepository.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
               </Node>
-              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
